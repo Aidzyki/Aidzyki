@@ -67,16 +67,16 @@
 ### ✧ Connect With Me
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <a href="https://t.me/caqqa" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="https://discord.com/users/aidzyki" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://steamcommunity.com/id/YOUR_STEAM_ID" target="_blank">
+  <a href="https://steamcommunity.com/id/aidzyki" target="_blank">
     <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID" target="_blank">
+  <a href="https://open.spotify.com/user/aidzyki" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
 </p>
